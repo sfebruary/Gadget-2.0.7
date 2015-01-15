@@ -1,7 +1,7 @@
 %  Relevant files
 
-InitCondFile  	   ICs/lcdm_gas_littleendian.dat
-OutputDir          lcdm_gas/
+InitCondFile  	   blah/Gadget-2.0.7/ICs/lcdm_gas_littleendian.dat
+OutputDir          blah/Gadget-2.0.7/Gadget2/lcdm_gas/
 
 EnergyFile         energy.txt
 InfoFile           info.txt
@@ -11,7 +11,7 @@ CpuFile            cpu.txt
 RestartFile        restart
 SnapshotFileBase   snapshot
 
-OutputListFilename parameterfiles/outputs_lcdm_gas.txt
+OutputListFilename blah/Gadget-2.0.7/Gadget2/parameterfiles/outputs_lcdm_gas.txt
 
 % CPU time -limit
 
